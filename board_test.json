@@ -1,0 +1,38 @@
+{
+	"land_map": [
+		[0, 1, 1, 1, 0],
+		[1, 1, 1, 1, 0],
+		[1, 1, 1, 1, 1],
+		[1, 1, 1, 1, 0],
+		[0, 1, 1, 1, 0]
+	],
+	"harbors_locs": {
+		"x": [1, 2, 0, 3, 4, 0, 3, 1, 2],
+		"y": [0, 0, 1, 1, 2, 3, 3, 4, 4],
+		"v": [5, 0, 4, 0, 1, 4, 2, 3, 2]
+	},
+	"hex_types" : {
+		"brick": 3,
+		"lumber": 4,
+		"ore": 3,
+		"grain": 4,
+		"wool": 4,
+		"desert": 1
+	},
+	"number_counts": [0, 0, 1, 2, 2, 2, 2, 0, 2, 2, 2, 2, 1],
+	"harbor_types": {
+		"generic": 4,
+		"brick": 1,
+		"lumber": 1,
+		"ore": 1,
+		"grain": 1,
+		"wool": 1
+	},
+	"dev_cards": {
+		"knight": 4,
+		"victory_point": 4,
+		"year_of_plenty": 2,
+		"monopoly": 2,
+		"road_building": 2
+	}
+}
